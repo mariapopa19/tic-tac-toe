@@ -1,5 +1,6 @@
 import './App.css';
 import Game from './components/Game';
+<<<<<<< HEAD
 import Button from 'react-bootstrap/Button';
 import { useRef } from 'react';
 
@@ -35,6 +36,13 @@ function App() {
       </div>
     </div>
     // <Game />
+=======
+
+function App() {
+
+  return (
+    <Game />
+>>>>>>> 2e024af2ff53c270c7403c1c24b282009e6c69ff
   );
 }
 
